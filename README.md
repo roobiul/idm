@@ -1,6 +1,6 @@
 # IDM activation
 0.Download orginal IDM.
-1.Download "Activation.cmd" file.
+1.Download "Activation.cmd" as RAW file.
 2.Open 
 3.click 1.
 4.w8 sometime 
