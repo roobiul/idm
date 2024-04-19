@@ -8,3 +8,14 @@
 
 // Note: Make sure your internet is on.
 //github.com/roobiul
+🔰 Get McAfee Live Security for 60 Days Free 🔰
+
+Get McAfee Live Security Premium For Absolutely Free For 60 Days, i.e, 2 Months Without Using Any Credit / Debit cards Or Without Any Payment Info
+
+Steps:
+1. Go To This Site: 
+https://home.mcafee.com/downloads/oneclickmobiletrial.aspx?affid=532
+
+2. Just Enter Your E-Mail Address For Which You Wanna Give The Trial
+
+3. Boom! You Got Your McAfee Activated For Your Account, Just Follow The Mail Instructions And Download The Application And Protect Your Self.
