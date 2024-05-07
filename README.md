@@ -6,6 +6,17 @@
 4.w8 sometime 
 5. Done 
 
+
+
+ PowerShell (Recommended)
+
+    Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
+    Copy-paste the below code and press enter
+    irm https://massgrave.dev/ias | iex
+    You will see the activation options, and follow onscreen instructions.
+    That's all.
+
+
 // Note: Make sure your internet is on.
 //github.com/roobiul
 🔰 Get McAfee Live Security for 60 Days Free 🔰
